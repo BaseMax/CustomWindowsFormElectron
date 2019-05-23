@@ -1,8 +1,8 @@
 # With Toolbar
 
-![ScreeShot](screenshot1.png)
+![ScreenShot](screenshot1.png)
 
-![ScreeShot](screenshot2.png)
+![ScreenShot](screenshot2.png)
 
-![ScreeShot](screenshot3.png)
+![ScreenShot](screenshot3.png)
 
