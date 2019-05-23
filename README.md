@@ -1,2 +1,4 @@
 # CustomWindowsFormElectron
-Custom Windows Frame with toolbar based on the electron. (SOON)
+
+Custom Windows Frame with toolbar based on the electron.
+
