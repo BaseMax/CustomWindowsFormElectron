@@ -1,0 +1,12 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+html {
+	border: 5px solid yellow;
+	border-radius: 5px;
+}
+body {
+	padding: 15px;
+}
+
