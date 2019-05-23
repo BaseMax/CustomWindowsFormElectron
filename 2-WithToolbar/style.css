@@ -1,0 +1,61 @@
+/***
+*
+* @Name : CustomWindowsFormElectron/2-WithToolbar/style.css
+* @Version : 1.0
+* @Programmer : Max
+* @Date : 2019-05-23
+* @Released under : https://github.com/BaseMax/CustomWindowsFormElectron/blob/master/LICENSE
+* @Repository : https://github.com/BaseMax/CustomWindowsFormElectron
+*
+**/
+* {
+	padding: 0px;
+	margin: 0px;
+}
+body {
+	border: 2px solid green;
+	padding: 8px;
+}
+#toolbar {
+	float: right;
+	width: 100%;
+	height: 45px;
+	background: white;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+#toolbar-menus {
+	float: right;
+}
+#toolbar-menus #toolbar-exit {
+	cursor: pointer;
+	float: right;
+	width: 15px;
+	height: 15px;
+	background: red;
+	margin-left: 5px;
+}
+#toolbar-menus #toolbar-max {
+	cursor: pointer;
+	float: right;
+	width: 15px;
+	height: 15px;
+	background: blue;
+	margin-left: 5px;
+}
+#toolbar-menus #toolbar-min {
+	cursor: pointer;
+	float: right;
+	width: 15px;
+	height: 15px;
+	background: orange;
+}
+#toolbar-title {
+	text-align: center;
+}
+#toolbar-title p {
+	position: absolute;
+	font-weight: bold;
+	font-size: 12px;
+}
+
